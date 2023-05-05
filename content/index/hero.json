@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Luiz = ( name, passion ) =>",
+		"start": "const Marcela = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
